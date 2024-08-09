@@ -8,6 +8,8 @@ from beautifultable import BeautifulTable
 
 
 
+
+
 def load_json(database_json_file="scraped_data.json"):
     """
     This function will load json data from scraped_data.json file if it exist else crean an empty array
